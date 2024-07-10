@@ -1,2 +1,4 @@
 # FIRST-GIT-PROJECT
-Here we will learn our first git repo. Author: RamshaImran
+Here we will learn our first git repo.
+<br>
+Author: RamshaImran
